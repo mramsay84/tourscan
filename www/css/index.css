@@ -1,12 +1,12 @@
 /*-  JqueryMobile Icons
 ----------------------------------------------------------------------*/
-@import url("jquery.mobile.icons.min.css");
+@import url("lungo.css");
 
 /*-  JqueryMobile THEME Sprooqit
 ----------------------------------------------------------------------*/
-@import url("jquerymobile.min.css");
+@import url("lungo.icon.css");
 
 /*-  JqueryMobile CSS Libraries
 ----------------------------------------------------------------------*/
-@import url("jquery.mobile-1.4.2.min.css");
+@import url("lungo.theme.css");
 
