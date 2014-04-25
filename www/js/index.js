@@ -57,7 +57,7 @@ var app = {
         var scanner = cordova.require("cordova/plugin/BarcodeScanner");
 
         scanner.scan( function (result) { 
-
+/*
             alert("We got a barcode\n" + 
             "Result: " + result.text + "\n" + 
             "Format: " + result.format + "\n" + 
@@ -69,7 +69,7 @@ var app = {
                 "cancelled: " + result.cancelled + "\n");
             document.getElementById("info").innerHTML = result.text;
             console.log(result);
-            /*
+            
             if (args.format == "QR_CODE") {
                 window.plugins.childBrowser.showWebPage(args.text, { showLocationBar: false });
             }
