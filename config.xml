@@ -10,7 +10,7 @@
     
     <gap:plugin name="org.apache.cordova.device" />
     
-    <gap:plugin name="com.mirasense.scanditsdk.plugin" version="2.3.0" />
+    <gap:plugin name="ScanditSDK" value="com.mirasense.scanditsdk.plugin" version="2.3.0" />
     
     <content src="index.html" />
     <access origin="*" />
